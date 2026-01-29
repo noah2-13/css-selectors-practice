@@ -1,0 +1,51 @@
+/* GENERAL PAGE STYLING */
+body {
+  font-family: Arial, sans-serif;          /* font-family */
+  background-color: #f2f5f9;               /* background */
+  margin: 0;
+  padding: 20px;                           /* padding value #1 */
+}
+
+/* HEADER */
+.header {
+  text-align: center;                     /* text-align */
+  background-color: #e0e7ff;
+  padding: 30px;                          /* padding value #2 */
+  margin-bottom: 30px;                    /* margin value #1 */
+}
+
+/* MAIN TITLE */
+#main-title {
+  font-size: 48px;                        /* font-size #1 */
+  color: #1d4ed8;                         /* text color #1 */
+  text-transform: uppercase;              /* text-transform */
+  margin-bottom: 10px;
+}
+
+/* SUBTITLE */
+.subtitle {
+  font-size: 18px;                        /* font-size #2 */
+  color: #475569;                         /* text color #2 */
+}
+
+/* MAIN CONTENT */
+.main {
+  background-color: white;
+  padding: 25px;                          /* padding value #3 */
+  margin: 0 40px 30px 40px;               /* margin value #2 */
+}
+
+/* SECTION */
+.section {
+  background-color: #dbeafe;
+  padding: 20px;                          /* padding value #4 */
+  margin: 0 60px 30px 60px;               /* margin value #3 */
+}
+
+/* FOOTER */
+.footer {
+  text-align: center;
+  font-size: 14px;
+  color: #555;
+  margin-top: 20px;
+}
