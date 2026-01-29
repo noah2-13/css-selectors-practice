@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My Winter Break</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div class="header">
+      <h1 id="main-title">My Winter Break</h1>
+      <p class="subtitle">CSS Text Formatting & Spacing Practice</p>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div class="main">
+      <p>
+        This winter break was relaxing and productive. I spent time with family,
+        listened to music, and worked on school projects.
+      </p>
+    </div>
+
+    <!-- SECTION -->
+    <div class="section">
+      <p>
+        Some highlights of my break were resting, staying active, and learning more about coding.
+      </p>
+    </div>
+
+    <!-- FOOTER -->
+    <div class="footer">
+      <p>Created by Noah</p>
+    </div>
+
+  </body>
+</html>
