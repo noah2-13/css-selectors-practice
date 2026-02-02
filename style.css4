@@ -1,0 +1,24 @@
+/* This is a CSS comment */
+
+/* Style the main header */
+h1 {
+  color: blue;          /* color name */
+  text-align: center;
+}
+
+/* Style the paragraph */
+p {
+  color: #444444;       /* hex color */
+  font-size: 18px;
+}
+
+/* Style list items */
+li {
+  color: rgb(0, 150, 0); /* rgb color */
+}
+
+/* Style h4 with transparency */
+h4 {
+  color: rgba(200, 0, 0, 0.6); /* rgba color */
+  font-style: italic;
+}
