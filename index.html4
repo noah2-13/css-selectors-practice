@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>CSS Basics Practice</title>
+
+    <!-- Link to CSS -->
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+
+    <h1>CSS Basics Practice</h1>
+
+    <p>This paragraph is styled using a hex color.</p>
+
+    <ol>
+      <li>First item</li>
+      <li>Second item</li>
+      <li>Third item</li>
+    </ol>
+
+    <h4>This is a smaller header</h4>
+
+  </body>
+</html>
