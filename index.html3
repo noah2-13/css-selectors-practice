@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>CSS Face</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <!-- Outer container to center everything -->
+    <div class="container">
+      <!-- Face -->
+      <div id="face">
+        <!-- Eyes row -->
+        <div class="eyes">
+          <div class="eye">
+            <div class="pupil"></div>
+          </div>
+
+          <div class="eye">
+            <div class="pupil"></div>
+          </div>
+        </div>
+
+        <!-- Mouth -->
+        <div class="mouth">
+          <!-- Teeth row -->
+          <div class="teeth">
+            <div class="tooth"></div>
+            <div class="tooth"></div>
+            <div class="tooth"></div>
+            <div class="tooth"></div>
+            <div class="tooth"></div>
+            <div class="tooth"></div>
+            <div class="tooth"></div>
+            <div class="tooth"></div>
+          </div>
+
+          <!-- Tongue -->
+          <div class="tongue">
+            <div class="tongue-left"></div>
+            <div class="tongue-right"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
